@@ -1,0 +1,186 @@
+body {
+	background: #DADADA;
+	width: 100%;
+}
+
+.centre {
+	background: white;
+	width: 700px;
+	height: 250px;
+	margin-left: 20%;
+	border-radius: 5px;
+}
+
+.search{
+	height: 40px;
+	margin-left: 15px;
+	margin-top: 10px;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+	font-size: 13px;
+}
+
+.button{
+	position: relative;
+	right: 10px;
+	height: 49px;
+	width: 130px;
+	background: #4682B4;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color: white;
+}
+
+.tomate{
+	margin-left: 15px;
+	text-decoration-line: line-through;
+}
+
+.tomate_basket{
+	height: 24px;
+	width: 24px;
+	border-radius: 3px;
+	background: #DADADA;
+	margin-left: 220px;
+	text-align: center;
+}
+
+.but_2{
+	height: 35px;
+	width: 100px;
+	margin-left: 200px;
+	border-radius: 3px;
+}
+
+.cookies{
+	margin-left: 15px;
+}
+
+.mainus{
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+	background: red;
+	font-size: 23px;
+	margin-left: 195px;
+	color: white;
+}
+
+.cookies_basket{
+	height: 24px;
+	width: 24px;
+	border-radius: 3px;
+	background: #DADADA;
+	text-align: center;
+}
+
+.plus{
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+	background: green;
+	font-size: 23px;
+	color: white;
+}
+
+.but_3{
+	height: 35px;
+	width: 100px;
+	margin-left: 120px;
+	border-radius: 3px;
+}
+
+.but_4{
+	height: 35px;
+	width: 35px;
+	border-radius: 3px;
+	background: red;
+	color: white;
+}
+
+.chees{
+	margin-left: 15px;
+}
+
+.mainus_op{
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+	background: red;
+	font-size: 23px;
+	margin-left: 83px;
+	opacity: .3;
+	color: white;
+}
+
+.centre_2 {
+	background: white;
+	width: 350px;
+	height: 275px;
+	position: relative;
+	bottom: 250px;
+	left: 1125px;
+	border-radius: 5px;
+}
+
+.rest{
+}
+
+.cookies_2{
+	height: 30px;
+	width: 100px;
+	border-radius: 3px;
+	margin-left: 5%;
+	text-align: left;
+}
+
+.cookies_basket_2{
+	position: relative;
+	right: 40px;
+	height: 15px;
+	width: 15px;
+	text-align: center;
+	background: orange;
+	border-radius: 8px;
+	color: white;
+}
+
+.chees_2{
+	height: 30px;
+	width: 70px;
+	border-radius: 3px;
+	text-align: left;
+	position: relative;
+	right: 20px;
+}
+
+.chees_basket_2{
+	position: relative;
+	right: 55px;
+	height: 15px;
+	width: 15px;
+	text-align: center;
+	background: orange;
+	border-radius: 8px;
+	color: white;
+}
+
+.tomate_2{
+	text-decoration-line: line-through;
+	height: 30px;
+	width: 120px;
+	border-radius: 3px;
+	margin-left: 5%;
+	text-align: left;
+}
+
+.tomate_basket_2{
+	position: relative;
+	right: 45px;
+	height: 15px;
+	width: 15px;
+	text-align: center;
+	background: orange;
+	border-radius: 8px;
+	color: white;
+}
